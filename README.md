@@ -34,8 +34,10 @@ O `ChatComponent` é um componente de chat em tempo real com as seguintes funcio
 
    ```bash
    git clone https://github.com/carlosrsantos/clientChat.git
+
    cd <app-folder>
    ```
+
 2. **Instalar dependências**:
   
   ```bash
