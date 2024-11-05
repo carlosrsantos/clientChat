@@ -91,6 +91,9 @@ O script utiliza Vue 3 com Composition API e SignalR para:
 
 O estilo é aplicado de forma escopada, com um layout centralizado para o chat e os seguintes elementos personalizados:
 
+## Servidor para aplicação:
+- [Server] (https://github.com/carlosrsantos/serverchat)
+
 - Contêiner de mensagens com rolagem automática (`overflow-y`).
 - Estilos personalizados para campos de entrada (`input-name`, `message-input`) e botão (`send-button`).
 
