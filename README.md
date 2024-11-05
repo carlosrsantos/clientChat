@@ -95,6 +95,6 @@ O estilo é aplicado de forma escopada, com um layout centralizado para o chat e
 - Estilos personalizados para campos de entrada (`input-name`, `message-input`) e botão (`send-button`).
 
 ## Servidor para aplicação:
-- [Server] (https://github.com/carlosrsantos/serverchat)
+- [Server](https://github.com/carlosrsantos/serverchat)
 
 
